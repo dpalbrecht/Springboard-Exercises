@@ -2,14 +2,14 @@
 
 The excerises contained in this repository are related to Springboard's coursework. It contains the following:
   
-  1. *sliderule_dsi_json_exercise.ipynb* in data_wrangling_json
+  1. *sliderule_dsi_json_exercise.ipynb* in data_wrangling_json  
       This IPython notebook showcases JSON parsing and data wrangling. It aims to answer the following questions:  
           A. Find the 10 countries with most projects.  
           B. Find the top 10 major project themes (using column 'mjtheme_namecode').  
           C. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing
           names filled in.  
          
-  2. *sliderule_dsi_xml_exercise.ipynb* in data_wrangling_xml
+  2. *sliderule_dsi_xml_exercise.ipynb* in data_wrangling_xml  
       This IPython notebook showcases XML parsing and data wrangling. It aims to answer the following questions:  
           A. Find the 10 countries with the lowest infant mortality rates.  
           B. Find the 10 cities with the largest population.  
