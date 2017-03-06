@@ -1,7 +1,7 @@
 # Springboard-Exercises
 
 The excerises contained in this repository are related to Springboard's coursework. It contains the following:
-  1. sliderule_dsi_json_exercise.ipynb 
+  1. sliderule_dsi_json_exercise.ipynb\n
       This IPython notebook showcases JSON parsing and data wrangling. It aims to answer the following questions:
           A. Find the 10 countries with most projects.
           B. Find the top 10 major project themes (using column 'mjtheme_namecode').
