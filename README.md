@@ -15,4 +15,8 @@ The excerises contained in this repository are related to Springboard's coursewo
           B. Find the 10 cities with the largest population.  
           C. Find the 10 ethnic groups with the largest overall populations (sum of best/latest estimates over all countries).  
           D. Find the name and country of a) longest river, b) largest lake and c) airport at highest elevation.  
+            
+  3. *Bike_Share_Story.ipynb*  
+      This IPython notebook showcases a data story that explores Capital Bikeshare's historical data (2015 Q3 - 2016 Q3).  
+      It aims to answer questions regarding counts, correlations, interesting trends, etc. in the data.
      
