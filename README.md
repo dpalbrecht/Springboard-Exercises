@@ -18,5 +18,8 @@ The excerises contained in this repository are related to Springboard's coursewo
             
   3. *Bike_Share_Story.ipynb*  
       This IPython notebook showcases a data story that explores Capital Bikeshare's historical data (2015 Q3 - 2016 Q3).  
-      It aims to answer questions regarding counts, correlations, interesting trends, etc. in the data.
+      It aims to answer questions regarding counts, correlations, interesting trends, etc. in the data.  
+        
+  4. *Time_Series*  
+      This folder holds 5 notebooks related to time series analysis using Python and Pandas. These exercises follow the video found here: https://www.youtube.com/watch?v=JNfxr4BQrLk&feature=youtu.be
      
