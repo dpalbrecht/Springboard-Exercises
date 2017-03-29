@@ -24,5 +24,5 @@ The excerises contained in this repository are related to Springboard's coursewo
       This folder holds 5 notebooks related to time series analysis using Python and Pandas. These exercises follow the video found here: https://www.youtube.com/watch?v=JNfxr4BQrLk&feature=youtu.be  
       
   5. *EDA - Stats*  
-      This folder holds 4 notebooks related to exploratory analysis and statistics using Python and Pandas.
+      This folder holds 3 notebooks related to exploratory analysis and statistics using Python and Pandas.
      
