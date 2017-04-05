@@ -26,6 +26,6 @@ The excerises contained in this repository are related to Springboard's coursewo
   5. *EDA - Stats*  
       This folder holds 3 notebooks related to exploratory analysis and statistics using Python and Pandas.
       
-  6. *Machine Leaning*  
+  6. *Machine Learning*  
       This folder holds several notebooks containing mini projects that focus on implementing machine learning algorithms in Python using various libraries such as sklearn, statsmodels, seaborn, and matplotlib.
      
